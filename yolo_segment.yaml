@@ -1,0 +1,8 @@
+path: D:/My_Machine_Learning/GitHub Projects/Water-Meters/data/YOLO_segmentation_data
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: numbers
